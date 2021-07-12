@@ -1,2 +1,2 @@
-# githubsubmmit
-用VSCode提交代码的练习
+#Cindy's Project in Guangxi University
+Some projects by Cindy
